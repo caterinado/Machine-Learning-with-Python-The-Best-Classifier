@@ -1,1 +1,1 @@
-# coursera_capstone_machinelearning
+# coursera_capstone
